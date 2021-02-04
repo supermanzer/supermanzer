@@ -4,7 +4,7 @@
 
 I do stuff...also things.
 
-I generally enjoy building full-stack containerized applications of various sorts. I also enjoy making relatively simple productivity appllications and have an interest in facilitating the rapid access of publicly available scientific data for analyses and visualization.
+I generally enjoy building full-stack containerized applications of various sorts. I also enjoy making relatively simple productivity applications. I also have an interest in facilitating the rapid access of publicly available scientific data for analyses and visualization.
 
 - I'm currently learning the Vue.js (and Nuxt.js) frameworks for developing reactive front-end applications. I've been tinkering with Angular a bit too but I'm pretty stoked about Vue.
 
