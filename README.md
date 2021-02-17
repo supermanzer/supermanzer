@@ -1,5 +1,4 @@
-![hi there](https://cdn.shopify.com/s/files/1/1061/1924/products/man_saying_hi_emoji_icon_ios10_large.png?v=1571606091 "Hello")
-
+![Hi There](https://images.pexels.com/photos/4439412/pexels-photo-4439412.jpeg?cs=srgb&dl=pexels-vie-studio-4439412.jpg&fm=jpg)
 # Hi, I'm Ryan Manzer
 
 I do stuff...also things.
