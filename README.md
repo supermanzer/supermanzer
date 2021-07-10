@@ -10,3 +10,8 @@ I generally enjoy building full-stack containerized applications of various sort
 - I'm looking to collaborate on some Python applications for scientists and researchers. I've based what little work I've done in that field on my own struggles as a grad student but it would be nice to work with others who are still active in the field.
 
 - I really enjoy using the Python language and would be excited to work on Python projects of various sorts.
+
+
+## Random Things I'd Like to Learn/Build
+* I want to build out a pre-commit git hook script that runs my Python CLA for cataloging TODO comments in code projects and adds/overwrites the resulting TODO.md output
+* I want to develop a full CI/CD workflow using Docker images entirely through Github tools
