@@ -13,5 +13,7 @@ I generally enjoy building full-stack containerized applications of various sort
 
 
 ## Random Things I'd Like to Learn/Build
+* I am trying to teach myself Rust.  I don't have a use case for it yet but I am curious what the hype is about and I want to be more comfortable with static typed, compiled languages.
+* I am testing out building websites like this one: https://supermanzer.io
 * I want to build out a pre-commit git hook script that runs my Python CLA for cataloging TODO comments in code projects and adds/overwrites the resulting TODO.md output
 * I want to develop a full CI/CD workflow using Docker images entirely through Github tools
